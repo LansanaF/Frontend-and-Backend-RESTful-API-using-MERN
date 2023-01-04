@@ -2,4 +2,4 @@
 
 <h5> Construct a RESTful API using the MERN </h5>
 
-<img src="capture/Capt.png>
+<img src="capture/Capt.png">
